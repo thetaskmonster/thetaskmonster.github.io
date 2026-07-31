@@ -1,0 +1,1 @@
+import{j as i,L as r}from"./jsx-runtime-DBBYzcuN.js";import{u as a}from"./site-CNVjPear.js";function m({to:o,...s}){const{localize:n}=a(),t=typeof o=="string"?n(o):o;return i.jsx(r,{to:t,...s})}export{m as L};

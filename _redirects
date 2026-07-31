@@ -1,0 +1,4 @@
+# Netlify / Cloudflare Pages. Real files (prerendered /route/index.html) are
+# served first; this only catches unmatched paths so the SPA can render its
+# own 404 / handle client-side navigation. Status 200 keeps the URL.
+/*    /__spa-fallback.html    200
